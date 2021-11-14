@@ -1,9 +1,10 @@
 # Random Password Generator
------UPDATE LINK--------
+
+https://jddlwlr.github.io/hw03-random-password-generator/
 
 ## Description
 
-This is a random password generator based in javascript. A series of prompts determine the parameters then a password in generated based on those parameters and displayed on the scree.  
+This is a random password generator based in javascript. A series of prompts determine the parameters then a password is generated based on those parameters and displayed on the screen.  
 
 ## Usage
 
